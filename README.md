@@ -1,7 +1,3 @@
 # COMP310P_GroupN
 
- test1
-Hello!
-=======
-jun 
- master
+start the web page from login.php file. 
