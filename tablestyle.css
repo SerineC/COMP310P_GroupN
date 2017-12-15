@@ -1,0 +1,61 @@
+header {
+    background: url('http://www.waltonorchestra.org/wp-content/uploads/2012/01/Homepg_banner_05.png');
+text-align: center;
+background-size: cover;
+margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 100px;
+  color: White;
+  text-align: center;
+}
+
+#myaccount{
+  float: right;
+  font-size: 15px;
+  margin: 0px 10px 0px 0px;
+}
+body {
+font-family: helvetica, sans-serif;
+margin: 0 auto;
+text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.subtitle
+{
+  font-family: arial;
+  font-size:35px;
+  text-align: center;
+  margin: 0px 50px 0px 50px;
+}      
+#table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+#table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#table tr:nth-child(even){background-color: #f2f2f2;}
+
+#table tr:hover {background-color: #ddd;}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
