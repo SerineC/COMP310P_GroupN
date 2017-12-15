@@ -1,7 +1,3 @@
 # COMP310P_GroupN
 
- test1
-Hello!
-=======
-jun 
- master
+All the php files for the final project are in the final-project branch. 
